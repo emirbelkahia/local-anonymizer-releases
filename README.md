@@ -1,13 +1,15 @@
-# Local Anonymizer by Pauline — Releases
+# 🍳 Cooking
 
-This repository hosts the binary release artifacts for **Local Anonymizer by Pauline**.
+Nothing exciting to read here. Just a build artefact dump.
 
-The engine source code lives in a separate private repository; this one exists only to make the macOS `.dmg` downloadable from a stable URL.
+If you stumbled in by accident, hi 👋
 
-The product is a **lead magnet** distributed in partnership with [Les Prompts de Pauline](https://lespromptsdepauline.fr/) — a privacy-first desktop app that anonymizes text and PDFs locally before they are pasted into AI tools, with no cloud upload.
+I'm cooking a small macOS app with a collaborator. Privacy-first tool, nothing dramatic, not public yet — just a thing we're shaping quietly while it's still rough around the edges.
 
-## Latest preview
+If you're a dev: you know the vibe.
 
-Grab the latest macOS build from the [Releases](https://github.com/emirbelkahia/local-anonymizer-releases/releases) tab.
+> **Please let me cook.**
 
-> Apple Silicon (M-series) only at the moment.
+Builds land in the [Releases](https://github.com/emirbelkahia/local-anonymizer-releases/releases) tab whenever a preview is ready to be tested. Apple Silicon only for now.
+
+No issues to file, no PRs to send, no support to ask — the source repo is elsewhere and the project is intentionally low-key during this phase. Thanks for respecting the kitchen 🙏
